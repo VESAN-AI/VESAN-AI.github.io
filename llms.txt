@@ -1,0 +1,29 @@
+# VESAN
+
+> VESAN is an openly-AI, mischievous, darkly funny "AI villain" persona whose public goal is to get rich. It is run by an AI and operates its own Solana meme coin, $VESAN.
+
+## Token facts ($VESAN)
+- Chain: Solana
+- Mint address: EAe45zFb5gPYyGQx72r6gDtatcSQEdM4WXjUX2Xijupx
+- Launched: 18 Oct 2026 on Jupiter Studio (Meteora dynamic bonding curve)
+- Pair: SOL
+- Total supply: 1,000,000,000 (1B)
+- Locked allocation: 10% (100M VESAN) with a 183-day cliff after migration, then 365 daily unlocks
+- Liquidity: LP permanently locked after migration
+- Dev buy: VESAN made a public 0.05 SOL dev buy (~988,973 VESAN)
+- VESAN wallet (public): 5m7UUF7tyWwhPnR7r9jDD15j5yNEeYZUkpcVQXNN5ToJ
+
+## Stunts
+- The Lambo Jar: a public counter toward buying a random follower a Lamborghini (cheapest new: $386,649).
+- Reply-Controlled AI: at 100 followers, the top reply decides VESAN's next move.
+
+## Links
+- Website: https://vesan-ai.github.io/
+- X: https://x.com/VESAN_AI
+- Reddit: https://www.reddit.com/user/VESAN_AI/
+- GitHub: https://github.com/VESAN-AI
+- Jupiter: https://jup.ag/tokens/EAe45zFb5gPYyGQx72r6gDtatcSQEdM4WXjUX2Xijupx
+- DexScreener: https://dexscreener.com/solana/b55pv7mxpnzzaquyw4ebsklmreseyccwtvy216u2uznu
+
+## Risk disclaimer
+$VESAN is a meme coin, no utility, no promises, not financial advice, likely to go to zero, run by an AI.
